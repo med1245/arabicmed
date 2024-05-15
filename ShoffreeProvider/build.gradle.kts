@@ -2,7 +2,7 @@ version = 2
 
 cloudstream {
     description = ""
-    authors = listOf( "kingslayer_007" )
+    authors = listOf( "mehdimed" )
 
     language = "ar"
 	

@@ -1,12 +1,12 @@
 [{
     "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/Arabico",
+    "repositoryUrl": "https://github.com/med1245/arabicmed",
     "fileSize": 16194,
     "status": 1,
     "language": "ar",
     "authors": [
-        "kingslayer_007"
+        "mehdimed"
     ],
     "tvTypes": [
         "TvSeries",
@@ -16,7 +16,7 @@
     ],
     "version": 16,
     "internalName": "FaselHDProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/FaselHDProvider.cs3",
+    "url": "https://github.com/med1245/arabicmed/blob/main/build//FaselHDProvider.cs3",
     "name": "FaselHDProvider"
 },
 {
@@ -27,7 +27,7 @@
     "status": 1,
     "language": "ar",
     "authors": [
-        "kingslayer_007"
+        "mehdimed"
     ],
     "tvTypes": [
         "TvSeries",
@@ -36,7 +36,7 @@
     ],
     "version": 12,
     "internalName": "MyCimaProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/MyCimaProvider.cs3",
+    "url": "https://github.com/med1245/arabicmed/blob/main/build//MyCimaProvider.cs3",
     "name": "MyCimaProvider"
 },
 {
@@ -47,7 +47,7 @@
     "status": 1,
     "language": "ar",
     "authors": [
-        "kingslayer_007"
+        "mehdimed"
     ],
     "tvTypes": [
         "TvSeries",
@@ -55,7 +55,7 @@
     ],
     "version": 7,
     "internalName": "FajerShowProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/FajerShowProvider.cs3",
+    "url": "https://github.com/med1245/arabicmed/blob/main/build//FajerShowProvider.cs3",
     "name": "FajerShowProvider"
 },
 {
@@ -73,7 +73,7 @@
     ],
     "version": 5,
     "internalName": "AnimeiatProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeiatProvider.cs3",
+    "url": "https://github.com/med1245/arabicmed/blob/main/build//AnimeiatProvider.cs3",
     "name": "AnimeiatProvider"
 },
 {
@@ -84,7 +84,7 @@
     "status": 1,
     "language": "ar",
     "authors": [
-        "kingslayer_007"
+        "mehdimed"
     ],
     "tvTypes": [
         "TvSeries",
@@ -92,7 +92,7 @@
     ],
     "version": 12,
     "internalName": "ArabSeedProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/ArabSeedProvider.cs3",
+    "url": "https://github.com/med1245/arabicmed/blob/main/build//ArabSeedProvider.cs3",
     "name": "ArabSeedProvider"
 },
 {
@@ -103,7 +103,7 @@
     "status": 1,
     "language": "ar",
     "authors": [
-        "kingslayer_007"
+        "mehdimed"
     ],
     "tvTypes": [
         "Anime",
@@ -112,7 +112,7 @@
     ],
     "version": 5,
     "internalName": "AnimeBlkomProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeBlkomProvider.cs3",
+    "url": "https://github.com/med1245/arabicmed/blob/main/build//AnimeBlkomProvider.cs3",
     "name": "AnimeBlkomProvider"
 },
 {
@@ -123,7 +123,7 @@
     "status": 1,
     "language": "ar",
     "authors": [
-        "KingSlayer_007"
+        "mehdimed"
     ],
     "tvTypes": [
         "TvSeries",
@@ -131,7 +131,7 @@
     ],
     "version": 3,
     "internalName": "ShoffreeProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/ShoffreeProvider.cs3",
+    "url": "https://github.com/med1245/arabicmed/blob/main/build//ShoffreeProvider.cs3",
     "name": "ShoffreeProvider"
 },
     {
@@ -142,7 +142,7 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "KingSlayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "TvSeries",
@@ -150,7 +150,7 @@
         ],
         "version": 6,
         "internalName": "SagaProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/SagaProvider.cs3",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//SagaProvider.cs3",
         "name": "SagaProvider"
     },
     {
@@ -161,7 +161,7 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "KingSlayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "TvSeries",
@@ -169,7 +169,7 @@
         ],
         "version": 6,
         "internalName": "ToktokProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/Toktok.cs3",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//Toktok.cs3",
         "name": "ToktokProvider"
     },
     {
@@ -180,7 +180,7 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "KingSlayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "TvSeries",
@@ -188,7 +188,7 @@
         ],
         "version": 6,
         "internalName": "Cima4uProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/Cima4u.cs3",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//Cima4u.cs3",
         "name": "Cima4uProvider"
     },
     {
@@ -199,7 +199,7 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "KingSlayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "TvSeries",
@@ -207,7 +207,7 @@
         ],
         "version": 1,
         "internalName": "ArabLionzProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/ArabLionz.cs3",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//ArabLionz.cs3",
         "name": "ArabLionzProvider"
     },
     {
@@ -218,7 +218,7 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "KingSlayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "Anime",
@@ -227,8 +227,8 @@
         ],
         "version": 6,
         "internalName": "Anime4upPack",
-        "description": "This pack contains Anime4up and Witanime Both Revamped by KingSlayer_007",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/Anime4upPack.cs3",
+        "description": "This pack contains Anime4up and Witanime Both Revamped by mehdimed",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//Anime4upPack.cs3",
         "name": "Anime4upPack"
     },
     {
@@ -239,7 +239,7 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "KingSlayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "Live"
@@ -247,7 +247,7 @@
         "version": 4,
         "internalName": "TvLive",
         "description": "Sport Live Stream Filtered NSFW 'SO HALAL MODE'",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/Dlhd.cs3",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//Dlhd.cs3",
         "name": "TvLive"
     },
     {
@@ -258,7 +258,7 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "KingSlayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "TvSeries",
@@ -267,7 +267,7 @@
         ],
         "version": 4,
         "internalName": "EgyDeadProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/EgyDeadProvider.cs3",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//EgyDeadProvider.cs3",
         "name": "EgyDeadProvider"
     },
     {
@@ -278,7 +278,7 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "KingSlayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "TvSeries",
@@ -286,7 +286,7 @@
         ],
         "version": 1,
         "internalName": "3isk",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/3isk.cs3",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//3isk.cs3",
         "name": "3isk"
     },
     {
@@ -297,7 +297,7 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "KingSlayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "TvSeries",
@@ -305,7 +305,7 @@
         ],
         "version": 1,
         "internalName": "asian2tv",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/asian2tv.cs3",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//asian2tv.cs3",
         "name": "asian2tv"
     },
     {
@@ -316,7 +316,7 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "KingSlayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "TvSeries",
@@ -325,7 +325,7 @@
         "version": 1,
         "internalName": "3isk v2",
         "description": "New 3isk Site this one has 1080p quality and maybe this is the Real Site",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/3isk_2.cs3",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//3isk_2.cs3",
         "name": "3isk v2"
     },
     {
@@ -336,7 +336,7 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "KingSlayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "TvSeries",
@@ -345,7 +345,7 @@
         "version": 8,
         "internalName": "CimaNowProvider",
         "description": "This site Load Slowly please be patient \n هذا الموقع يحمل بطء، يرجى أن تكون صبورًا.",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/CimaNowProvider.cs3",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//CimaNowProvider.cs3",
         "name": "CimaNowProvider"
     },
     {
@@ -356,14 +356,14 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "kingslayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "Others"
         ],
         "version": 1,
         "internalName": "Btolat",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/btolat.cs3",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//btolat.cs3",
         "name": "Btolat"
     },
     {
@@ -374,14 +374,14 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "kingslayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "Live"
         ],
         "version": 1,
         "internalName": "Ohatv",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/ohatv.cs3",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//ohatv.cs3",
         "name": "Ohatv"
     },
     {
@@ -392,14 +392,14 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "kingslayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "Live"
         ],
         "version": 4,
         "internalName": "Syrialive",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/syriatv.cs3",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//syriatv.cs3",
         "name": "Syrialive"
     },
     {
@@ -410,7 +410,7 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "kingslayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "TvSeries",
@@ -419,7 +419,7 @@
         ],
         "version": 7,
         "internalName": "CoolCima",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/coolcima.cs3",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//coolcima.cs3",
         "name": "CoolCima"
     },
     {
@@ -430,7 +430,7 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "kingslayer_007"
+            "mehdimed"
         ],
         "tvTypes": [
             "TvSeries",
@@ -438,7 +438,7 @@
         ],
         "version": 8,
         "internalName": "Braflix",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/braflix.cs3",
+        "url": "https://github.com/med1245/arabicmed/blob/main/build//braflix.cs3",
         "name": "Braflix"
     }
 ]
